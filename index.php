@@ -36,7 +36,7 @@ session_start();
                                             </h5>
                                         </div>
                                         <div class="col-md-4">
-                                            <a href="index.php"><i class="fa fa-user-circle fa-3x my-4" style="color: white;">
+                                            <a href="#"><i class="fa fa-user-circle fa-3x my-4" style="color: white;">
                                         </i></a>
                                         </div>
                                     </div>
@@ -51,7 +51,7 @@ session_start();
                                           <h5 class="text-white my-4">Appointment</h5>
                                         </div>
                                         <div class="col-md-4">
-                                            <a href="#"><i class="fa fa-procedure fa-3x my-4" style="color: white;">
+                                            <a href="profile.php"><i class="fa fa-procedure fa-3x my-4" style="color: white;">
                                         </i></a>
 
                             </div>
